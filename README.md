@@ -1,4 +1,4 @@
-# Python Easy Chess GUI
+# SVL GUI
 An auto-chess GUI coded in Python using PySimpleGUI and Python-Chess modules. Users can also load a chess engine and play with it. This program is based on the public Github repository [Python Easy Chess GUI](https://github.com/fsmosca/Python-Easy-Chess-GUI) which is itself based on [demo chess against ai](https://github.com/PySimpleGUI/PySimpleGUI/tree/master/Chess) from [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI).
 
 ![](https://i.imgur.com/DT0lOO2.png)
